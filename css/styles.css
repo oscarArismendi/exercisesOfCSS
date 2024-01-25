@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+/*Utils*/
+
+.red-borders{
+    border:2px red solid;
+}
+
