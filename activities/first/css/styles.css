@@ -1,5 +1,7 @@
-#menu{
-    height: 54px;
+#titulo{
+    background-color: purple;
+    color: white;
+    border: dashed black;
 }
 
 #menu ul{
@@ -9,13 +11,18 @@
 }
 
 #menu a{
-    color: white;
+    color: red;
 }
 
-.item{
-    height: 150px;
+#menu li ul li a{
+    color:green;
 }
 
+#description{
+    border:black solid;
+    padding: 10px 10px;
+}
+/*
 footer{
     height: 50px;
     line-height: 50px;
@@ -28,4 +35,4 @@ footer{
 .lateral > div{
     height: calc(250px/3);
 }
-
+ */
