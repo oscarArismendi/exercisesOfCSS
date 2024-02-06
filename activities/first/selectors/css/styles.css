@@ -1,0 +1,63 @@
+#titulo{
+    background-color: purple;
+    color: white;
+    border: dashed black;
+}
+
+#menu ul{
+    text-decoration: none;
+    list-style: none;
+    line-height: 50px;
+}
+
+#menu a{
+    color: red;
+}
+
+#menu li ul li a{
+    color:green;
+}
+
+#description{
+    border:black solid;
+    padding: 10px 10px;
+}
+
+.paragraph{
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.paragraph1, .paragraph2{
+    background-color: red;
+}
+#user{
+    border: 2px blue solid;
+    margin-top: 1rem;
+    padding: 0.1rem 0.1rem;
+}
+
+button{
+    background-color: blue;
+    min-width: 20%;
+    height: 20px;
+    margin-top: 0.5rem;
+    border: 1px black solid;
+    color: white;
+}
+
+#greeting{
+    background-color: purple;
+    color: white;
+}
+
+footer{
+    line-height: 50px;
+    background-color: grey;
+    color: white;
+}
+
+input{
+    max-width: 95%;
+}
